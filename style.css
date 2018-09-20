@@ -1,0 +1,19 @@
+body, html {
+    color:white;
+    height: 100%;
+    background-image: url("pi.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    font-size: 9em;
+    border: 20px solid white;
+    height: 300px;
+    width: 300px;
+    border-radius: 1000px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 500px;
+}
